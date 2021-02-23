@@ -9,7 +9,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import static android.view.View.GONE;
-
+//https://www.geeksforgeeks.org/mvp-model-view-presenter-architecture-pattern-in-android-with-example/
 public class MainActivity extends AppCompatActivity implements Contract.View {
     // creating object of TextView class
     private TextView textView;
